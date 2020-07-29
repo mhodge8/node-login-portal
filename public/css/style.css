@@ -1,0 +1,20 @@
+body{
+    background-color: #b3e6ff;
+}
+.welcome-container{
+    text-align: center;
+    margin: 10% auto 0;
+    width: 50%;
+    color: #4d4d4d;
+}
+
+button{
+    margin: 10px;
+    width: 150px;
+}
+
+.form-container{
+    width: 50%;
+    min-width: 300px;
+    margin: 10% auto;
+}
